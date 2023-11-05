@@ -1,5 +1,6 @@
 # NewHacks
-
+Pitch Deck & Demo:
+ {https://1drv.ms/p/s!AqDxdl9YqroNgn2XFyS7q1Xwpv18?e=lpeHQq}
 ## Inspiration
 Have you ever found yourself struggling to maintain focus and well-being during long work or study sessions? We sure have. The inspiration for ProdWatch stems from our desire to create a supportive and adaptive tool that enhances productivity. 
 
